@@ -1,4 +1,5 @@
 #  TP Final, création d'un jeu vidéo pour Chaos Média - Automne 2026 - Projet scolaire
+# Titre: La Tour des Nuages
 
 Créé par Chloé Savaria, Alexia Bocioaca, Sébastien Cloutier et Antoine Ross
 
